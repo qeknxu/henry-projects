@@ -20,8 +20,8 @@ git commit -m '部署测试'
 # git push -f git@github.com:xjinky/xjinky.github.io.git master
 
 # 部署到 https://<USERNAME>.github.io/<REPO>
-# git push -f https://github.com/qeknxu/henry-projects.git master:gh-pages  # 提交到gh-master分支
+git push -f https://github.com/qeknxu/henry-projects.git master:gh-pages  # 提交到gh-master分支
 
-git push -f https://github.com/qeknxu/henry-projects.git master    # 提交到master分支
+#git push -f https://github.com/qeknxu/henry-projects.git master    # 提交到master分支
 
 cd -
